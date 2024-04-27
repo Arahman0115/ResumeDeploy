@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ornament FONT Letter A
+* source:	https://sketchfab.com/3d-models/ornament-font-letter-a-be8387ff99c54b1bb4cb071711befe6a
+* author:	Kurt Schuster (https://sketchfab.com/kurtschuster)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ornament FONT Letter A" (https://sketchfab.com/3d-models/ornament-font-letter-a-be8387ff99c54b1bb4cb071711befe6a) by Kurt Schuster (https://sketchfab.com/kurtschuster) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
